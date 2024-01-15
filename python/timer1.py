@@ -1,3 +1,14 @@
+import tkinter as tk
+from random import randint
+
+MS_DELAY = 500  # Milliseconds between updates.
+
+window = Tk()
+text1 = StringVar()
+
+window = tk.Tk()
+text1 = StringVar()
+
 tasks = ["Set up", "Check Jira", "Duplicate Complaints", "Complaints - Upload", "Clean Desk", "Morning Break", "Assigned Tasks", "Afternoon Break", "Assigned Tasks", "Update Jira"]
     
 times = [15, 15, 15, 15, 15, 30, 90, 30, 150, 30]
@@ -70,4 +81,13 @@ def timer():
         print(x)
         print(y, "minutes")
         time.sleep(y)
+    window.after(MS_DELAY, check_condition)
+lbl = Label(window, textvariable=text1)  # Link to StringVar's value.
+lbl.pack()
+
+window.after(MS_DELAY, check_condition)  # Schedule first check.
+window.mainloop()
+
+
+
 
