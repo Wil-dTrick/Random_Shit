@@ -1,18 +1,9 @@
-import tkinter as tk
-from random import randint
 
-MS_DELAY = 500  # Milliseconds between updates.
-
-window = Tk()
-text1 = StringVar()
-
-window = tk.Tk()
-text1 = StringVar()
 
 tasks = ["Set up", "Check Jira", "Duplicate Complaints", "Complaints - Upload", "Clean Desk", "Morning Break", "Assigned Tasks", "Afternoon Break", "Assigned Tasks", "Update Jira"]
-    
-times = [15, 15, 15, 15, 15, 30, 90, 30, 150, 30]
         
+times = [15, 15, 15, 15, 15, 30, 90, 30, 150, 30]
+
 def list_update():
     from datetime import datetime
     
@@ -74,19 +65,33 @@ def list_update():
         tasks.insert(9,"Assigned Tasks")
         times.insert(9,15)
 
-def timer():
-    import time
-    
-    for x, y in zip(tasks,times):
-        print(x)
-        print(y, "minutes")
-        time.sleep(y)
-    window.after(MS_DELAY, check_condition)
-lbl = Label(window, textvariable=text1)  # Link to StringVar's value.
-lbl.pack()
+list_update()
 
-window.after(MS_DELAY, check_condition)  # Schedule first check.
-window.mainloop()
+import tkinter as tk
+
+class App(tk.Frame):
+    def __init__(self, master):
+        super().__init__(master)
+        self.pack()
+        self.entrythingy = tk.Entry()
+        self.entrythingy.pack()
+        self.contents = tk.StringVar()  
+        x = 0
+        import time 
+        while x <= len(tasks)-1:
+            self.contents.set(tasks[x])
+            self.entrythingy["textvariable"] = self.contents
+            self.entrythingy.bind('<Key-Return>',self.print_contents)
+#            self.entrythingy.after(times[x]*600)
+            x += 1
+            print(tasks[x])
+#           
+        
+    def print_contents(self, event):
+        print("Current Task:", self.contents.get())
+        
+Root = tk.Tk()
+App(Root).mainloop()
 
 
 
