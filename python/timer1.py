@@ -82,16 +82,13 @@ class App(tk.Frame):
             self.contents.set(tasks[x])
             self.entrythingy["textvariable"] = self.contents
             self.entrythingy.bind('<Key-Return>',self.print_contents)
-#            self.entrythingy.after(times[x]*600)
-            x += 1
+            self.entrythingy.after(times[x]*600,x + 1)
             print(tasks[x])
-#           
         
     def print_contents(self, event):
         print("Current Task:", self.contents.get())
-        
-Root = tk.Tk()
-App(Root).mainloop()
+
+App(tk.Tk()).mainloop()
 
 
 
