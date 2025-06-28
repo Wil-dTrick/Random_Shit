@@ -45,7 +45,7 @@ Tips to stay calm
 
 * Remember that at the end of this you get to go do something else. You'll go home and forget this conversation soon enough. 
 
-* If you are the sort who likes a challenge, take it as a challenge to resolve the situation. I usually have a goal of getting the escalated person to apologize on their own, laugh at something I said, or thank me. I can usually accomplish one of these things.   I got a guy from threatening to kill me to telling me his favorite fishing spot and he apologized unprompted the next day.
+* If you are the sort who likes a challenge, take it as a challenge to resolve the situation. I usually have a goal of getting the escalated person to apologize on their own, laugh at something I said, or thank me. I can usually accomplish one of these things.
 
 * Be honest about outcomes. If you know early on that you cannot resolve the situation to the person's satisfaction... tell them that. This keeps expectations reasonable. 'I hear what you're saying. I don't think we can get the exact outcome you want but we can talk about this and do our best.' Ending with something like that prompts the person to consider the final outcome, whatever it is, the best outcome that was available. You tie the outcome to the concept of 'best' ahead of time. -- additionally, it can reduce pressure on you to get a specific outcome. I have straight up told a bunch of people that there isn't a solution that will make everyone happy. Like it's just not possible. 
 
