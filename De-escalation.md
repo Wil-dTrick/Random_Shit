@@ -1,8 +1,8 @@
 # Purpose 
 
-Share some quick, formula-based tips to de-escalate a situation. Some steps may feel unnatural or uncomfortable for you as the person trying to control the situation. That's just how it goes. 
+Share some quick, formula-based tips to de-escalate a situation. Some steps may feel unnatural or uncomfortable for you as the person trying to control the situation. That's just how it goes. It gets better with practice.
 
-The acknowledgement framework provided here is often overkill but it can be better to do too much instead of too little. This framework seeks to resolve the conflict without being authoritative. This works in almost all situations. 
+The acknowledgement framework provided here is often overkill but using it can help you make sure you're not missing anything. This framework seeks to resolve the conflict without being authoritative. This works in almost all situations. 
 
 It's beyond the scope of this document to address physical altercations. If a fight breaks out, the overwhelming majority of people need to stay out of it and keep others from jumping in. Creating additional injured people doesn't help. It's the same logic as not reaching into a dog fight. 
 
@@ -52,7 +52,7 @@ Tips to stay calm
 
 ## Redirect
 
-Sometimes it easier if the escalated situation is artifically directed at you. Getting in between two people can be difficult. If one person is relatively calm and the other is not. You can focus on how you failed the situation to bring the heat onto yourself, which you can then defuse much easier. 
+Sometimes it easier if the escalated situation is directed at you. Getting in between two people can be difficult. If one person is relatively calm and the other is not. You can focus on how you failed the situation to bring the heat onto yourself, which you can then defuse much easier. 
 
 ## Body Language 
 
@@ -138,5 +138,6 @@ Just don't surprise someone with suddenly being the supervisor. It can help to p
 
 # Afterward
 
-After de-escalation, there's always an opportunity for things to escalate again. Sometimes that's due to the person feeling they've lost face or being embarrassed about their behavior. Some people are just in a perpetually volatile mindset. That usually goes back to unmet needs. If you've successfully gotten them to think of you as being in their team, you can revisit that temporary relationship to bring the situation back down to a calmer place. 
+After de-escalation, there's always an opportunity for things to escalate again. Sometimes that's due to the person feeling they've lost face or being embarrassed about their behavior. Some people are just in a volatile mindset. That usually goes back to unmet needs. If you've successfully gotten them to think of you as being on their team, you can revisit that temporary relationship to bring the situation back down to a calmer place. 
 
+Today's situation wasn't helped by the communication barriers that existed, which are no one's fault. I think both women had the same concern- Both were concerned with different aspects of fairness. 
