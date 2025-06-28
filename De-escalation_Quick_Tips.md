@@ -4,7 +4,9 @@ Share some quick, formula-based tips to de-escalate a situation. Some steps may 
 
 It's beyond the scope of this document to address physical altercations. If a fight breaks out, the overwhelming majority of people need to stay out of it. Creating additional injured people doesn't help. It's the same logic as not reaching into a dog fight. 
 
-Note: I don't use this exact framework much anymore myself. It's a really great way to get started, though. Once you get a feel for the goals of this kind of thing and some practice, you'll develop your own style.
+The goal isn't usually to make everyone friends or everyone happy. That may not be possible. The goal is to bring the temperature of the conversation down. 
+
+Note: I don't use this exact framework much anymore myself. It's a really great way to get started, though. Once you get a feel for the goals of this kind of thing and some practice, you'll develop your own styles.
 
 # Requirements 
 
@@ -18,6 +20,15 @@ Not taking the escalation personally, Listening to the literal words the escalat
 
 * Face - the public image people want to present within a given social framework
 
+# TL;DR:
+
+* Stay Calm
+* Create Space
+* Acknowledge their concern
+* Set Boundaries
+* Be aware of your body language and perceptions about you
+* Get them involved in solutions.
+
 # Getting Started
 
 ## Stay Calm 
@@ -29,9 +40,10 @@ Whatever is happening isn't about you. But if you inappropriately meet them wher
 
     * Remember that at the end of this you get to go do something else. You'll go home and forget this conversation soon enough. 
 
-    * If you are the sort who likes a challenge, take it as a challenge to resolve the situation. I usually have a goal of getting the escalated person to apologize on their own, laugh at something I said, or thank me. I can usually accomplish one of these things.  I've gotten people to apologize, unprompted, for threatening to kill me. 
+    * If you are the sort who likes a challenge, take it as a challenge to resolve the situation. I usually have a goal of getting the escalated person to apologize on their own, laugh at something I said, or thank me. I can usually accomplish one of these things.   I got a guy from threatening to kill me to telling me his favorite fishing spot and he apologized unprompted the next day.
 
-    * Be honest about outcomes. If you know early on that you cannot resolve the situation to the person's satisfaction... tell them that. This keeps expectations reasonable. 'I hear what you're saying. I don't think we can do exactly what you'd like but we can do our best.' 
+    * Be honest about outcomes. If you know early on that you cannot resolve the situation to the person's satisfaction... tell them that. This keeps expectations reasonable. 'I hear what you're saying. I don't think we can get the exact outcome you want but we can talk about this and do our best.' Ending with something like that prompts the person to consider the final outcome, whatever it is, the best outcome that was available. You tie the outcome to the concept of 'best' ahead of time. 
+
 
 ## Redirect
 
@@ -46,6 +58,14 @@ Don't face them directly when they're tense. Stand at a slight angle to them wit
 Once you've connected with them, you can turn to face them more directly if that's more comfortable for you.
 
 Eye contact is very useful. It makes people feel more vulnerable and can make them feel seen.
+
+## Manage Perception
+
+If the conflict you're walking into is between someone you know and someone you don't, be cognizant that the person you don't know will perceive a bias. A quick way to work around this is to tell the person you know to shut up and let the person you don't know explain their side first. You're going to have to trust you can explain your reasoning later to the person you already know. Giving the appearance you're taking their side can make them want to work with you and forget the other person. If you can dismiss the person you know from the conversation, you might just be able to get right back to business. 
+
+Another aspect of managing perception is knowing how you look to other people. Tall and masculine people are going to come across as more threatening. Sitting down or leaning on something, if possible, can help break that up. The person can't listen effectively if they're both escalated and looking for threatening behavior. Doing something with your hands can also help. Even if it's kinda pointless busy work. 
+
+Some threats may not be obvious to you, but are obvious to others. White women have historically been a threat to black men, as an example. A white woman threatening to call the police on a black man is a threat of violence because of the history involved with that dynamic. 
 
 ## Acknowledgements
 
@@ -75,15 +95,13 @@ Note that your statements about how you might feel in their shoes don't have to 
 
 If you're going to lay down some rules, the time to do it is right after you get yourselves on the same side. They should be presented as expectations that apply to both of you (all parties) and not rules the other person should follow. 
 
-## Manage Perception
+## Ask permission 
 
-If the conflict you're walking into is between someone you know and someone you don't, be cognizant that the person you don't know will perceive a bias. A quick way to work around this is to tell the person you know to shut up and let the person you don't know explain their side first. You're going to have to trust you can explain your reasoning later to the person you already know. Giving the appearance you're taking their side can make them want to work with you and forget the other person. 
+The acknowledgement above asked 'Is that okay?' This gives the illusion of control to the angry party. How they answer is irrelevant. If they say yes, you can start with that course of action. If they say no, you can counter with something like 'Our goal is to fill your basket up and then try to avoid this problem in the future. How would you like to do those two things?'
 
-Another aspect of managing perception is knowing how you look to other people. Tall and masculine people are going to come across as more threatening. Sitting down or leaning on something, if possible, can help break that up. The person can't listen effectively if they're both escalated and looking for threatening behavior. Doing something with your hands can also help. Even if it's kinda pointless busy work. 
+## Get them involved in the solution 
 
-Some threats may not be obvious to you, but are obvious to others. White women have historically been a threat to black men, as an example. A white woman threatening to call the police on a black man is a threat of violence because of the history involved with that dynamic. 
-
-
+Let them make suggestions on how to fix the problem in the future. Emphasize that what happened happened and we can change that. Even if their solutions are trash, listen to them and present their idea back at them as something you'll look into. 
 
 
 
