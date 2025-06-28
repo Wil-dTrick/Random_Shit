@@ -79,7 +79,9 @@ If you're going to lay down some rules, the time to do it is right after you get
 
 If the conflict you're walking into is between someone you know and someone you don't, be cognizant that the person you don't know will perceive a bias. A quick way to work around this is to tell the person you know to shut up and let the person you don't know explain their side first. You're going to have to trust you can explain your reasoning later to the person you already know. Giving the appearance you're taking their side can make them want to work with you and forget the other person. 
 
-Another aspect of managing perception is knowing how you look to other people. I'm short. I do not generally come across as threatening. Tall and masculine people are going to come across as more threatening. Sitting down or leaning on something, if possible, can help break that up. The person can't listen effectively if they're both escalated and looking for threatening behavior. Doing something with your hands can also help. Even if it's kinda pointless busy work. Some threats may not be obvious to you, but are obvious to others. (White women have historically been a threat to black men, as an example. A white woman threatening to call the police on a black man is a threat of violence because of the history involved with that dynamic.) 
+Another aspect of managing perception is knowing how you look to other people. Tall and masculine people are going to come across as more threatening. Sitting down or leaning on something, if possible, can help break that up. The person can't listen effectively if they're both escalated and looking for threatening behavior. Doing something with your hands can also help. Even if it's kinda pointless busy work. 
+
+Some threats may not be obvious to you, but are obvious to others. White women have historically been a threat to black men, as an example. A white woman threatening to call the police on a black man is a threat of violence because of the history involved with that dynamic. 
 
 
 
