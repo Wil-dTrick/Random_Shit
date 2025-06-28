@@ -35,7 +35,8 @@ Not taking the escalation personally, Listening to the literal words the escalat
 
 Whatever is happening isn't about you. But if you inappropriately meet them where they are at, you can become the focus of the escalated behavior. 
 
-    **Tips to stay calm**
+Tips to stay calm
+
     * Remember that whatever caused this behavior is probably one of many things happening in the person's life. The current moment/issue probably isn't all that important to them. 
 
     * Remember that at the end of this you get to go do something else. You'll go home and forget this conversation soon enough. 
@@ -81,11 +82,11 @@ Acknowledgements are a formula-based phrase that escalated people tend to respon
 
 A simple acknowledgement might look like:
 
-```I understand you're (emotion) about (problem more-or-less exactly as they stated it). I would be (emotion) in your shoes. Let's (solution-based phrase that includes you and the other person on the same team). (optional question to move the discussion forward or to take the suggested action.)```
+    I understand you're (emotion) about (problem more-or-less exactly as they stated it). I would be (emotion) in your shoes. Let's (solution-based phrase that includes you and the other person on the same team). (optional question to move the discussion forward or to take the suggested action.)```
 
 So if someone is upset about being cut in line, and the line is moving quickly you might use:
 
-```Hey. I get it. You're upset that people are cutting in line. I know I feel disrespected when I'm following the rules and others aren't. Let's go through the line together so you can get your things and we can talk about how we might do this better next time. Is that okay?```
+    Hey. I get it. You're upset that people are cutting in line. I know I feel disrespected when I'm following the rules and others aren't. How about for today we get you through the line and then we can talk about how we might do this better next time. Is that okay?```
 
 [An emotion wheel](https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2Femotional-wheel-a-resource-for-better-understanding-emotions-v0-HopRGhzMiGi9RriTf0qI17ekK_Pbye-nCRWI03oBoGE.jpg) can be helpful. Even if you just try to remember the ones about being angry, they can be useful to drill down into the issue.
 
