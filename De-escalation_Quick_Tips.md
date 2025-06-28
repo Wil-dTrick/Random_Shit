@@ -2,8 +2,9 @@
 
 Share some quick, formula-based tips to de-escalate a situation. Some steps may feel unnatural or uncomfortable for you as the person trying to control the situation. That's just how it goes. 
 
+It's beyond the scope of this document to address physical altercations. If a fight breaks out, the overwhelming majority of people need to stay out of it. Creating additional injured people doesn't help. It's the same logic as not reaching into a dog fight. 
 
-Note: I don't use this exact framework much anymore myself. It's a really great way to get started, though. Once you get a feel for the goals of this kind of thing and some practice, you'll develop your own style. I'm more likely to use these tactics when I don't have a cultural overlap with someone or communication is difficult for some reason. 
+Note: I don't use this exact framework much anymore myself. It's a really great way to get started, though. Once you get a feel for the goals of this kind of thing and some practice, you'll develop your own style.
 
 # Requirements 
 
@@ -19,9 +20,9 @@ Not taking the escalation personally, Listening to the literal words the escalat
 
 # Getting Started
 
-##Stay Calm 
+## Stay Calm 
 
-Whatever is happening isn't about you. But if you inappropriately meet them where they are at, you can become the focus of the escalated behavior.
+Whatever is happening isn't about you. But if you inappropriately meet them where they are at, you can become the focus of the escalated behavior. 
 
     **Tips to stay calm**
     * Remember that whatever caused this behavior is probably one of many things happening in the person's life. The current moment/issue probably isn't all that important to them. 
@@ -43,6 +44,8 @@ Your goal is to be non-threatening. If you can make yourself as neutral as furni
 Don't face them directly when they're tense. Stand at a slight angle to them with a neutral posture. I usually stand with my left shoulder closer to them than my right. I've found this disarms people because most people are right handed so I'm putting my 'weak' side close to their 'strong' side. Alternatively, put a table or something else between you. Nothing so tall that they can't see your hands. 
 
 Once you've connected with them, you can turn to face them more directly if that's more comfortable for you.
+
+Eye contact is very useful. It makes people feel more vulnerable and can make them feel seen.
 
 ## Acknowledgements
 
@@ -72,17 +75,11 @@ Note that your statements about how you might feel in their shoes don't have to 
 
 If you're going to lay down some rules, the time to do it is right after you get yourselves on the same side. They should be presented as expectations that apply to both of you (all parties) and not rules the other person should follow. 
 
-## What if I can't redirect two people who are getting into it?
+## Manage Perception
 
-* Assess the situation. If you can get between the. safely, do so. Explain that you're part of the group running whatever the event is and you want to hear what's happened that's causing the conflict. If you have a second person, each of you can talk to one of them. Creating space between the conflicting parties is the goal. 
+If the conflict you're walking into is between someone you know and someone you don't, be cognizant that the person you don't know will perceive a bias. A quick way to work around this is to tell the person you know to shut up and let the person you don't know explain their side first. You're going to have to trust you can explain your reasoning later to the person you already know. Giving the appearance you're taking their side can make them want to work with you and forget the other person. 
 
-* If it's already come to blows and it's an ongoing physical altercation, do not get physically involved. Creating a third injured person helps no one. Some people who have a lot of conflict resolution history might be able to pull this off but most people are just going to get hurt. Any action you take needs to be carefully considered from all angles. Throwing water on people who are grappling might break it up but it might also make them angry at you, etc. 
-
-You're better off getting uninvolved parties out of the way.
-
-* It's beyond the scope of this document to cover serious physical altercations. 
-
-
+Another aspect of managing perception is knowing how you look to other people. I'm short. I do not generally come across as threatening. Tall and masculine people are going to come across as more threatening. Sitting down or leaning on something, if possible, can help break that up. The person can't listen effectively if they're both escalated and looking for threatening behavior. Doing something with your hands can also help. Even if it's kinda pointless busy work. Some threats may not be obvious to you, but are obvious to others. (White women have historically been a threat to black men, as an example. A white woman threatening to call the police on a black man is a threat of violence because of the history involved with that dynamic.) 
 
 
 
