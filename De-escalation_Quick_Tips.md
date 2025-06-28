@@ -27,11 +27,11 @@ Not taking the escalation personally, Listening to the literal words the escalat
 # TL;DR:
 
 * Stay Calm
-* Create Space
-* Acknowledge their concern
+* Listen
+* Say something about the emotion they're feeling and repeat their concern back at them.
 * Set Boundaries
 * Be aware of your body language and perceptions about you
-* Get them involved in solutions.
+* Get them involved in solution-making.
 
 # Getting Started
 
