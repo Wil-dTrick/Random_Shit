@@ -1,12 +1,12 @@
-#Purpose 
+# Purpose 
 
 Share some quick, formula-based tips to de-escalate a situation. Some steps may feel unnatural or uncomfortable for you as the person trying to control the situation. That's just how it goes. 
 
-It's beyond the scope of this document to address physical altercations. If a fight breaks out, the overwhelming majority of people need to stay out of it. Creating additional injured people doesn't help. It's the same logic as not reaching into a dog fight. 
+It's beyond the scope of this document to address physical altercations. If a fight breaks out, the overwhelming majority of people need to stay out of it and keep others from jumping in. Creating additional injured people doesn't help. It's the same logic as not reaching into a dog fight. 
 
 The goal isn't usually to make everyone friends or everyone happy. That may not be possible. The goal is to bring the temperature of the conversation down. 
 
-Note: I don't use this exact framework much anymore myself. It's a really great way to get started, though. Once you get a feel for the goals of this kind of thing and some practice, you'll develop your own styles.
+Note: I don't use this exact framework much anymore. It's a really great way to get started, though. Once you get a feel for the goals of this kind of thing and some practice, you'll develop your own styles. The acknowledgement framework provided here is often overkill but it can be better to do too much instead of too little.
 
 # Requirements 
 
