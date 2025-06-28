@@ -134,7 +134,7 @@ If you're not getting the result you want, bring someone else in. Sometimes it's
 
 Or have an understanding that tagging someone into an argument puts them in the 'supervisor' role. This gets into role play a bit. But if you're not getting through, you can say 'I hear you. Let me get so-and-so. They usually handle these and they have the best ideas.' OR 'Let me get so-and-so. Last time this came up they were able to help.' Or if it's a really heated situation 'Let me get the supervisor, (whoever)' and then yell for them. Getting a new person can also function as a de-escalation hold. By the time they get there the person may have backed down a bit. 
 
-Just don't surprise someone with suddenly being the supervisor. It can help to prompt whoever you're bringing in by introducing them as the supervisor or having some experience or authority. 
+Just don't surprise someone with suddenly being the 'supervisor.' It can help to prompt whoever you're bringing in by introducing them as the supervisor or having some experience or authority. If this tactic is used, it's important than the supervisor be perceived as having authority over the person that called them in, not necessarily over the person that needs de-escalated. The same tactics should still be used. 
 
 # Afterward
 
